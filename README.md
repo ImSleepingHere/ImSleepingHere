@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,sklearn,opencv,fastapi,postgres,docker,js,html,css,git" />
 </p>
 
-**Also:** Gemini API · Ollama · ChromaDB · pgvector · MediaPipe · Tesseract OCR · Pydantic
+**Also:** Gemini API · Ollama · Hermes Agent · ChromaDB · pgvector · MediaPipe · Tesseract OCR · Pydantic
 
 ### Featured projects
 

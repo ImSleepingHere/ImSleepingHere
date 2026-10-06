@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ali Albinali 👋</h1>
+<h1 align="center">Hi, I'm Ali Albinali</h1>
 <p align="center">
   <b>AI student building agentic systems, computer vision, and local-first LLM apps</b><br/>
   Final-year Artificial Intelligence @ Imam Abdulrahman Bin Faisal University · Khobar, Saudi Arabia
@@ -8,15 +8,15 @@
 
 ### About me
 
-- 🎓 Final-year AI student at **IAU** (CCSIT), GPA 4.56 / 5.00
-- 🚀 Selected for **KAUST Academy Advanced AI, Stage 3** (top 1% of ~17,500 applicants)
-- 🏆 **Finalist, Farq Hackathon 2026** at Al Yamamah University (top 25 of 650+) with [Mizan](https://github.com/ImSleepingHere/Mizan)
-- 🧠 Interested in multi-agent systems, RAG, vision-language models, and running models on edge devices (Jetson)
+- Final-year AI student at **IAU** (CCSIT), GPA 4.56 / 5.00
+- Selected for **KAUST Academy Advanced AI, Stage 3** (top 1% of ~17,500 applicants)
+- **Finalist, Farq Hackathon 2026** at Al Yamamah University (top 25 of 650+) with [Mizan](https://github.com/ImSleepingHere/Mizan)
+- Interested in multi-agent systems, RAG, vision-language models, and running models on edge devices (Jetson)
 
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,postgres,redis,docker,react,js,html,css,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,postgres,redis,docker,react,js,html,css,git" />
 </p>
 
 **Also:** Gemini API · Ollama · ChromaDB · pgvector · MediaPipe · Tesseract OCR · Pydantic

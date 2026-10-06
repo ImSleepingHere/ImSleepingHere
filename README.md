@@ -16,7 +16,7 @@
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,postgres,redis,docker,react,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,sklearn,opencv,fastapi,postgres,docker,js,html,css,git" />
 </p>
 
 **Also:** Gemini API · Ollama · ChromaDB · pgvector · MediaPipe · Tesseract OCR · Pydantic
